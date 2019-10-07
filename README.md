@@ -1,2 +1,2 @@
 # naiveBayes-Calculator
-simple naive bayes prediction calcuator 
+simple naive bayes prediction calcuator using java
