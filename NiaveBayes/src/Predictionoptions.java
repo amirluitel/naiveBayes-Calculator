@@ -18,10 +18,6 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.JPanel;
 import javax.swing.JFrame;
 
-// 
-// Decompiled by Procyon v0.5.36
-// 
-
 public class Predictionoptions extends JFrame
 {
     private JPanel contentPane;

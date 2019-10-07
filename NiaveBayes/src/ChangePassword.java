@@ -17,9 +17,6 @@ import javax.swing.JTextField;
 import javax.swing.JPanel;
 import javax.swing.JFrame;
 
-// 
-// Decompiled by Procyon v0.5.36
-// 
 
 public class ChangePassword extends JFrame
 {

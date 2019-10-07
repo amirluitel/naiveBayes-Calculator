@@ -1,9 +1,4 @@
 import java.awt.EventQueue;
-
-// 
-// Decompiled by Procyon v0.5.36
-// 
-
 public class NaiveBayes
 {
     public static void main(final String[] args) {

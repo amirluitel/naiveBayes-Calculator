@@ -18,11 +18,6 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.Action;
 import javax.swing.JPanel;
 import javax.swing.JFrame;
-
-// 
-// Decompiled by Procyon v0.5.36
-// 
-
 public class TrainingDataSet extends JFrame
 {
     private JPanel contentPane;
